@@ -1,29 +1,23 @@
-# EXNO:2
-# AIM:
-      To perform Exploratory Data Analysis on the given data set.
-      
-# EXPLANATION:
-  The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
-  
-# ALGORITHM:
-STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
+# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
-STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
+## AIM
+To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
-STEP 3: Use boxplot method to analyze the outliers of the given dataset.
+## SCENARIO:
+You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
 
-STEP 4: Remove the outliers using Inter Quantile Range method.
+Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
 
-STEP 5: Use Countplot method to analyze in a graphical method for categorical data.
+Accuracy
 
-STEP 6: Use displot method to represent the univariate distribution of data.
+Coherence
 
-STEP 7: Use cross tabulation method to quantitatively analyze the relationship between multiple variables.
+Simplicity
 
-STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
+Speed
 
-## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+User experience
 
-# RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+## OUTPUT
+
+## RESULT
