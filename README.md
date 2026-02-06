@@ -332,4 +332,4 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________
 
 ## RESULT:
-Considering the above prompts and outputs, ChatGPT provides the best summary in terms of accuracy,Coherance, Simplicity, Speed, User experience.
+Considering the above prompts and outputs, ChatGPT provides the best summary in terms of accuracy,Coherance, Simplicity, Speed, User experience.chatgpt plays the better role compared to others
