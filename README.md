@@ -1,5 +1,6 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
-
+## Name   :GOKUL S
+## Ref.no :212223040051
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
@@ -318,7 +319,7 @@ Beyond cryptocurrency, blockchain enables smart contracts—self-executing code 
 Current limitations include transaction throughput constraints and storage requirements. Layer-2 solutions and sharding technologies are emerging to address these bottlenecks while maintaining decentralization and security—the fundamental blockchain trilemma.
 _______________________________________________________________________________________________________________________________________________________________________
 ### COPILOT:
-## 🧩 Basics of Blockchain Technology (200 Words)
+## 🧩 Basics of Blockchain Technology 
 
 Blockchain technology is a decentralized digital ledger system designed to record transactions securely, transparently, and permanently. Instead of relying on a central authority, blockchain distributes identical copies of its ledger across a network of computers, known as nodes. This decentralization increases trust because no single entity controls the data.
 
